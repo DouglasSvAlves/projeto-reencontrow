@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="imagens/reencontrow.png" width="100%" />
+  <img src="imagens/reecontrow.png" width="100%" /> 
 </p>
 
 ## 💻 Projeto

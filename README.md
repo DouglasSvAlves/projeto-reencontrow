@@ -9,7 +9,10 @@
 ## 💻 Projeto
 
 Este projeto foi feito a partir do figma disponibilizado pelo Jefferson. <br>
-Canal do Jefferson: https://www.youtube.com/@jeffersonvasconcelos
+<br>
+Github Pages: https://douglassvalves.github.io/projeto-reencontrow/
+<br>
+Canal do criador do layout que disponibilizou o figma - Jefferson: https://www.youtube.com/@jeffersonvasconcelos
 
 ## 🚀 Tecnologias
 
